@@ -18,6 +18,9 @@ Proyek ini sangat cocok untuk pengembang yang ingin mempelajari dasar-dasar peng
 - 💻 **PHP Native**: Tidak memerlukan framework tambahan.
 
 ## 🛠️ Teknologi yang Digunakan
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="35" />
 
 - **PHP Native**: Bahasa backend utama tanpa framework.
 - **HTML5 & CSS3**: Untuk struktur dan desain antarmuka.
