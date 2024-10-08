@@ -1,6 +1,6 @@
 # 🌐 Admin Dashboard - PHP Native
 
-![Dashboard Preview](http://dzakki.infinityfreeapp.com/)
+![Dashboard Preview](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" / height="30">)
 
 ## 🚀 Tentang Proyek Ini
 
