@@ -1,7 +1,5 @@
 # 🌐 Admin Dashboard - PHP Native
 
-![Dashboard Preview](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" / height="30">)
-
 ## 🚀 Tentang Proyek Ini
 
 **Admin Dashboard** ini adalah proyek sederhana namun powerful yang dibangun dengan **PHP Native** tanpa framework tambahan. Dasbor ini dirancang untuk mempermudah pengelolaan data secara real-time melalui antarmuka yang responsif, minimalis, dan user-friendly.
