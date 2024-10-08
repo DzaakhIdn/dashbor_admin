@@ -25,4 +25,4 @@ Proyek ini sangat cocok untuk pengembang yang ingin mempelajari dasar-dasar peng
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/admin-dashboard-php-native.git
+https://github.com/DzaakhIdn/dashbord_admin.git
